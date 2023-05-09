@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">Code, Create, Conquer: A Jr CS student trying to explore the ever-evolving tech universe!</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 - 🔭 I’m currently working on [Math Dash-Puzzle Runner Level-based Game](https://drive.google.com/file/d/14blnEJxHHNmtsmMGOMCg1Svls-ENB8Kh/view)
 
