@@ -1,4 +1,7 @@
-[![MasterHead] (https://unsplash.com/photos/oqStl2L5oxI)
+<p align="center">
+  <img src="https://unsplash.com/photos/oqStl2L5oxI" width="100%" height="auto">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">Code, Create, Conquer: A Jr CS student trying to explore the ever-evolving tech universe!</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
