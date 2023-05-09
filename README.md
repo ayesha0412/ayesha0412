@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unsplash.com/photos/oqStl2L5oxI" width="100%" height="auto">
+  <img src="[https://unsplash.com/photos/oqStl2L5oxI](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)" width="100%" height="auto">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
